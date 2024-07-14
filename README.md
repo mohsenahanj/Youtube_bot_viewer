@@ -1,5 +1,6 @@
 # Youtube_bot_viewer
  Youtube robot python
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fcamo.githubusercontent.com%2F27ae9ff38ce84f28477dcd90f2329b1db70c83721c87d6f4a4234bf581553771%2F68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d79656c6c6f773f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e)
 
 # 🎥 Video View Bot
 
@@ -17,7 +18,7 @@
 V_LINK = 'https://www.youtube.com/watch?v=PSsN6Y4Nqi8'
 ```
 
-        ## کد تعداد بازدید
+# کد تعداد بازدید
 		
 ```python
 class VideoViewBot:
