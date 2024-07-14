@@ -16,7 +16,7 @@
 ابتدا کد زیر را در پروژه خود قرار دهید:
 
 ```python
-V_LINK = 'https://www.youtube.com/watch?v=PSsN6Y4Nqi8'
+V_LINK = 'https://www.youtube.com/link your video'
 ```
 
 # کد تعداد بازدید
@@ -30,7 +30,7 @@ class VideoViewBot:
 
 ``` Python
 
-EXECUTABLE = 'C:/Users/ahanj/Downloads/chromedriver_win32/chromedriver.exe'
+EXECUTABLE = 'C:/Users/Downloads/chromedriver_win32/chromedriver.exe'
 ```
 
 نصب و راه‌اندازی
